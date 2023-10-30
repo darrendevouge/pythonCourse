@@ -1,4 +1,4 @@
-# "My version of Python for Beginners by Dave Gray, moded for my own learning experience"
+# "Python for Beginners by Dave Gray"
 
 ### Full Course - 23 Chapters
 
@@ -40,11 +40,13 @@
 ---
 
 ### ⚙ Free Python Tools
+
 - 🔗 [Python](https://www.python.org/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [Python VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 ### 📚 References
+
 - 🔗 [Python Official Site](https://www.python.org/)
 - 🔗 [Python Standard Library](https://docs.python.org/3/library/index.html)
 - 🔗 [Python Package Index](https://pypi.org/)
